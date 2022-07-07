@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=priteshbhoi.visitor-badge)
-[![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshbhoi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🔗 &nbsp;**Connect with me**
@@ -19,3 +18,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/pritesh-bhoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/11591828/pritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/Plbhoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+  
+  [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshbhoi)](https://github.com/anuraghazra/github-readme-stats)
