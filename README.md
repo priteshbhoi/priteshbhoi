@@ -9,3 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=priteshbhoi.visitor-badge)
+[![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshbhoi)](https://github.com/anuraghazra/github-readme-stats)
