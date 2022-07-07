@@ -22,7 +22,9 @@ You can click the Preview link to take a look at your changes.
   
   [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshbhoi)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={priteshbhoi}
+
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/priteshbhoi?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+![Metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=priteshbhoi)
 
