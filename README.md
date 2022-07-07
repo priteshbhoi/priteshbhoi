@@ -20,11 +20,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/Plbhoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
   
-  [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshbhoi)](https://github.com/anuraghazra/github-readme-stats)
+[![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshbhoi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/priteshbhoi?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
-![Metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=priteshbhoi)
-
