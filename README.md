@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priteshbhoi
-- 👀 I’m interested in Frontend Web & Mobile app deveopment.
+- 👀 I’m interested in Frontend Web & Mobile app deveopment, Artificial Intelligence.
 - 🌱 I’m currently learning threejs to making 3d websites.
 - 💞️ I’m looking to collaborate on bhylu.com
 - 📫 contact me @ whatsapp +91 9033863013, +44 07442080790 and priteshbhoi18@gmail.com.com
